@@ -14,23 +14,6 @@ de tarefas. Cada tarefa deve ter um título, descrição, status e data de cria�
 
 ![image](https://github.com/arianeccdias/FastApi_Ari/assets/91470759/b20f5c29-5495-49f0-bd6b-90a1a7829b14)
 
-fastapi-task-management/
-├── app/
-│   ├── controllers/
-│   │   └── task_controller.py
-│   ├── services/
-│   │   └── task_service.py
-│   ├── repositories/
-│   │   └── task_repository.py
-│   ├── models/
-│   │   └── task_model.py
-│   ├── main.py
-│   └── database.py
-└── tests/
-    ├── test_controllers.py
-    ├── test_services.py
-    └── test_repositories.py
-
 ## Descrição dos Componentes
 
 - **Controllers**: Responsáveis por definir os endpoints da API.

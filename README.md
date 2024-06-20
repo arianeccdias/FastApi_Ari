@@ -12,6 +12,8 @@ de tarefas. Cada tarefa deve ter um título, descrição, status e data de cria�
 
 ## Estrutura do Projeto
 
+![image](https://github.com/arianeccdias/FastApi_Ari/assets/91470759/b20f5c29-5495-49f0-bd6b-90a1a7829b14)
+
 fastapi-task-management/
 ├── app/
 │   ├── controllers/
@@ -34,6 +36,8 @@ fastapi-task-management/
 - **Controllers**: Responsáveis por definir os endpoints da API.
 - **Services**: Contêm a lógica de negócios e validações.
 - **Repositories**: Gerenciam a interação com o banco de dados.
+
+![image](https://github.com/arianeccdias/FastApi_Ari/assets/91470759/b5cfb1a3-4eff-4d05-8b8f-b963a9654641)
 
 
 
